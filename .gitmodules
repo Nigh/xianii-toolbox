@@ -1,0 +1,36 @@
+[submodule "arduino-as-usb2uart"]
+	path = arduino-as-usb2uart
+	url = git@github.com:Nigh/arduino-as-usb2uart.git
+[submodule "OLED_arduino"]
+	path = OLED_arduino
+	url = git@github.com:Nigh/OLED_arduino.git
+[submodule "I-wanna-clean-keyboard"]
+	path = I-wanna-clean-keyboard
+	url = git@github.com:Nigh/I-wanna-clean-keyboard.git
+[submodule "richtext_love2d"]
+	path = richtext_love2d
+	url = git@github.com:Nigh/richtext_love2d.git
+[submodule "uart_monitor"]
+	path = uart_monitor
+	url = git@github.com:Nigh/uart_monitor.git
+[submodule "bin2carray"]
+	path = bin2carray
+	url = git@github.com:Nigh/bin2carray.git
+[submodule "dotmatrix2array"]
+	path = dotmatrix2array
+	url = git@github.com:Nigh/dotmatrix2array.git
+[submodule "HexS224Parse"]
+	path = HexS224Parse
+	url = git@github.com:Nigh/HexS224Parse.git
+[submodule "Time2Break"]
+	path = Time2Break
+	url = git@github.com:Nigh/Time2Break.git
+[submodule "MsgInPNG"]
+	path = MsgInPNG
+	url = git@github.com:Nigh/MsgInPNG.git
+[submodule "InputMagician"]
+	path = InputMagician
+	url = git@github.com:Nigh/InputMagician.git
+[submodule "DoMiSo"]
+	path = DoMiSo
+	url = git@github.com:Nigh/DoMiSo.git
